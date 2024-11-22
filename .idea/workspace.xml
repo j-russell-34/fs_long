@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5124ebea-6443-4cc8-96b8-04cbaa303481" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fs_long_surf.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/long_sclimbic.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FS_long_stats.sh" beforeDir="false" afterPath="$PROJECT_DIR$/FS_long_stats.sh" afterDir="false" />
     </list>
@@ -40,7 +40,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Shell Script.FS_long_stats.sh.executor": "Run",
+    "Shell Script.fs_long_surf.sh.executor": "Run",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/jasonrussell/Documents/code/fs_long",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,8 +50,18 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.sourceCode.Python",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Shell Script"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -67,7 +79,12 @@
       <option name="presentableId" value="Default" />
       <updated>1731521087240</updated>
       <workItem from="1731521090062" duration="9910000" />
-      <workItem from="1731532093680" duration="5883000" />
+      <workItem from="1731532093680" duration="8625000" />
+      <workItem from="1732059621693" duration="8860000" />
+      <workItem from="1732147172809" duration="285000" />
+      <workItem from="1732148879803" duration="493000" />
+      <workItem from="1732149986510" duration="799000" />
+      <workItem from="1732229726213" duration="3110000" />
     </task>
     <servers />
   </component>
