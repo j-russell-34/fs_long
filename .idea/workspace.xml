@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5124ebea-6443-4cc8-96b8-04cbaa303481" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/fs_long_surf.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/long_sclimbic.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FS_long_stats.sh" beforeDir="false" afterPath="$PROJECT_DIR$/FS_long_stats.sh" afterDir="false" />
-    </list>
+    <list default="true" id="5124ebea-6443-4cc8-96b8-04cbaa303481" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +79,7 @@
       <workItem from="1732147172809" duration="285000" />
       <workItem from="1732148879803" duration="493000" />
       <workItem from="1732149986510" duration="799000" />
-      <workItem from="1732229726213" duration="3110000" />
+      <workItem from="1732229726213" duration="4146000" />
     </task>
     <servers />
   </component>
