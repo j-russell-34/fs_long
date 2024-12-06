@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5124ebea-6443-4cc8-96b8-04cbaa303481" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/fslong_A002/bfvolextract.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FS_long_stats.sh" beforeDir="false" afterPath="$PROJECT_DIR$/FS_long_stats.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fslong_A001/fs_long_surf.sh" beforeDir="false" afterPath="$PROJECT_DIR$/fslong_A001/fs_long_surf.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fslong_A001/fs_long_surf_2.sh" beforeDir="false" afterPath="$PROJECT_DIR$/fslong_A001/fs_long_surf_2.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fslong_A002/sclimbic_lmem.R" beforeDir="false" afterPath="$PROJECT_DIR$/fslong_A002/sclimbic_lmem.R" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,32 +36,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.qdec.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Shell Script.FS_long_stats.sh.executor&quot;: &quot;Run&quot;,
-    &quot;Shell Script.fs_long_surf.sh.executor&quot;: &quot;Run&quot;,
-    &quot;Shell Script.fs_long_surf_2.sh.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jasonrussell/Documents/code/fs_long&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Python&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.bfvolextract.executor": "Run",
+    "Python.qdec.executor": "Run",
+    "Python.scratch_1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Shell Script.FS_long_stats.sh.executor": "Run",
+    "Shell Script.fs_long_surf.sh.executor": "Run",
+    "Shell Script.fs_long_surf_2.sh.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/jasonrussell/Documents/code/fs_long/fslong_A002",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Python",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Shell Script&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python",
+      "Shell Script"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fslong_A002" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -85,6 +94,8 @@
       <workItem from="1732229726213" duration="4146000" />
       <workItem from="1732301654849" duration="3661000" />
       <workItem from="1732559682844" duration="16000" />
+      <workItem from="1733437763996" duration="4557000" />
+      <workItem from="1733507841431" duration="5177000" />
     </task>
     <servers />
   </component>
@@ -92,6 +103,8 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/fs_long$qdec.coverage" NAME="qdec Coverage Results" MODIFIED="1731527800684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fs_long$qdec.coverage" NAME="qdec Coverage Results" MODIFIED="1733438229066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fslong_A001" />
+    <SUITE FILE_PATH="coverage/fs_long$bfvolextract.coverage" NAME="bfvolextract Coverage Results" MODIFIED="1733513077000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fslong_A002" />
+    <SUITE FILE_PATH="coverage/fs_long$scratch_1.coverage" NAME="scratch_1 Coverage Results" MODIFIED="1733512015550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </project>

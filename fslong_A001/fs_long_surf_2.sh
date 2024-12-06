@@ -4,7 +4,7 @@
 export FREESURFER_HOME=/Applications/freesurfer/7.4.1
 export out_dir=/Users/jasonrussell/Documents/OUTPUTS/fslong_A001
 export in_dir=/Users/jasonrussell/Documents/INPUTS/fslong_A001
-export SUBJECTS_DIR=$in_dir/resources/SUBJECTS
+export SUBJECTS_DIR=$in_dir/SUBJECTS
 source $FREESURFER_HOME/SetUpFreeSurfer.sh
 
 
